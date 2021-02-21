@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c5d36bf-4452-477e-b0e8-f8155fceae1a" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/fontawesome-all.min.css" afterDir="false" />
@@ -73,6 +74,11 @@
       <change beforePath="$PROJECT_DIR$/left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/left-sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/no-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/no-sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/right-sidebar.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+>>>>>>> 69abfc21e248bcd516b825b735a9c6204d78a57a
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +92,7 @@
     <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1olHjkHrZlu5xSiWICUz1iRrQ4O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -98,11 +105,23 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/static" />
     </key>
+=======
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5up-landed/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+>>>>>>> 69abfc21e248bcd516b825b735a9c6204d78a57a
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -112,10 +131,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613854394897</updated>
+<<<<<<< HEAD
       <workItem from="1613854396613" duration="2657000" />
       <workItem from="1613870585383" duration="3889000" />
       <workItem from="1613913819053" duration="174000" />
       <workItem from="1613914809804" duration="140000" />
+=======
+      <workItem from="1613854396613" duration="3641000" />
+      <workItem from="1613870709617" duration="66000" />
+      <workItem from="1613871736493" duration="2702000" />
+>>>>>>> 69abfc21e248bcd516b825b735a9c6204d78a57a
     </task>
     <servers />
   </component>
